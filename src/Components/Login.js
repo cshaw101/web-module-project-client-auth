@@ -15,10 +15,10 @@ return(
     <nav>
     <ul>
 
-        <li><a href="#Login">LOGIN.</a></li>
-        <li><a href="#FriendsList">FRIENDSLIST.</a></li>
-        <li><a href="#jobs">ADDFRIEND.</a></li>
-        <li><a href="#jobs">LOGOUT.</a></li>
+        <li><a href="/login">LOGIN.</a></li>
+        <li><a href="/friends">FRIENDSLIST.</a></li>
+        <li><a href="/addfriend">ADDFRIEND.</a></li>
+        <li><a href="/logout">LOGOUT.</a></li>
     </ul>
     </nav>
     <div>
