@@ -4,7 +4,8 @@ import React from "react";
 export function Login() {
 
     const onSubmit = (e) => {
-        e.preventDefault()
+        e.preventDefault(e)
+        console.log('im working')
         
     }
 
