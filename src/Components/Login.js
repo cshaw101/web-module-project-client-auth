@@ -34,7 +34,7 @@ return(
     PASSWORD:
   <input type="password" name="password" />
   </label>
-  <input type="button" value='submit'  />
+  <input type="submit" value='submit' />
 </form>
 </div>
 </div>
